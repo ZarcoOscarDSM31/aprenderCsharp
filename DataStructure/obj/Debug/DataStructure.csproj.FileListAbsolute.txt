@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\calculosMatematicos\DataStructure\obj\Debug\DataStructure.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\calculosMatematicos\DataStructure\obj\Debug\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\calculosMatematicos\DataStructure\bin\Debug\DataStructure.exe.config
+C:\Users\DELL\source\repos\calculosMatematicos\DataStructure\bin\Debug\DataStructure.exe
+C:\Users\DELL\source\repos\calculosMatematicos\DataStructure\bin\Debug\DataStructure.pdb
+C:\Users\DELL\source\repos\calculosMatematicos\DataStructure\obj\Debug\DataStructure.exe
+C:\Users\DELL\source\repos\calculosMatematicos\DataStructure\obj\Debug\DataStructure.pdb

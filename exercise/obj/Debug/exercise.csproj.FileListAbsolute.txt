@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\calculosMatematicos\exercise\bin\Debug\exercise.exe.config
+C:\Users\DELL\source\repos\calculosMatematicos\exercise\bin\Debug\exercise.exe
+C:\Users\DELL\source\repos\calculosMatematicos\exercise\bin\Debug\exercise.pdb
+C:\Users\DELL\source\repos\calculosMatematicos\exercise\obj\Debug\exercise.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\calculosMatematicos\exercise\obj\Debug\exercise.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\calculosMatematicos\exercise\obj\Debug\exercise.exe
+C:\Users\DELL\source\repos\calculosMatematicos\exercise\obj\Debug\exercise.pdb

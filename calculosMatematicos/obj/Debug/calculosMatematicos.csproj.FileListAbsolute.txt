@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\calculosMatematicos\calculosMatematicos\bin\Debug\calculosMatematicos.dll
+C:\Users\DELL\source\repos\calculosMatematicos\calculosMatematicos\bin\Debug\calculosMatematicos.pdb
+C:\Users\DELL\source\repos\calculosMatematicos\calculosMatematicos\obj\Debug\calculosMatematicos.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\calculosMatematicos\calculosMatematicos\obj\Debug\calculosMatematicos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\calculosMatematicos\calculosMatematicos\obj\Debug\calculosMatematicos.dll
+C:\Users\DELL\source\repos\calculosMatematicos\calculosMatematicos\obj\Debug\calculosMatematicos.pdb

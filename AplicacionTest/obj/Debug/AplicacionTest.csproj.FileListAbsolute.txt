@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\calculosMatematicos\AplicacionTest\bin\Debug\AplicacionTest.exe.config
+C:\Users\DELL\source\repos\calculosMatematicos\AplicacionTest\bin\Debug\AplicacionTest.exe
+C:\Users\DELL\source\repos\calculosMatematicos\AplicacionTest\bin\Debug\AplicacionTest.pdb
+C:\Users\DELL\source\repos\calculosMatematicos\AplicacionTest\bin\Debug\calculosMatematicos.dll
+C:\Users\DELL\source\repos\calculosMatematicos\AplicacionTest\bin\Debug\calculosMatematicos.pdb
+C:\Users\DELL\source\repos\calculosMatematicos\AplicacionTest\obj\Debug\AplicacionTest.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\calculosMatematicos\AplicacionTest\obj\Debug\AplicacionTest.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\calculosMatematicos\AplicacionTest\obj\Debug\Aplicaci.BE3F4607.Up2Date
+C:\Users\DELL\source\repos\calculosMatematicos\AplicacionTest\obj\Debug\AplicacionTest.exe
+C:\Users\DELL\source\repos\calculosMatematicos\AplicacionTest\obj\Debug\AplicacionTest.pdb
