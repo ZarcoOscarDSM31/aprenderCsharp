@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{73304DC0-FECA-47FB-B181-16B97F8ACA2F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrimerosPasos/Ejercicios.cs">
+    <Files>
+      <File FileName="PrimerosPasos/Program.cs" Line="59" Column="42" />
+      <File FileName="PrimerosPasos/Variables.cs" Line="186" Column="14" />
+      <File FileName="PrimerosPasos/Ejercicios.cs" Line="13" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PrimerosPasos" expanded="True">
+            <Node name="PrimerosPasos" expanded="True">
+              <Node name="Ejercicios.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/oscar/Escritorio/C#/PrimerosPasos/PrimerosPasos/EmptyClass.cs" relfile="PrimerosPasos/EmptyClass.cs" line="10" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PrimerosPasos PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

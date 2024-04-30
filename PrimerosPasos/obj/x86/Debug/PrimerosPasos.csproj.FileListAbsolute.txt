@@ -1,0 +1,6 @@
+/home/oscar/Escritorio/C#/PrimerosPasos/PrimerosPasos/bin/Debug/PrimerosPasos.exe
+/home/oscar/Escritorio/C#/PrimerosPasos/PrimerosPasos/bin/Debug/PrimerosPasos.pdb
+/home/oscar/Escritorio/C#/PrimerosPasos/PrimerosPasos/obj/x86/Debug/PrimerosPasos.csproj.AssemblyReference.cache
+/home/oscar/Escritorio/C#/PrimerosPasos/PrimerosPasos/obj/x86/Debug/PrimerosPasos.csproj.CoreCompileInputs.cache
+/home/oscar/Escritorio/C#/PrimerosPasos/PrimerosPasos/obj/x86/Debug/PrimerosPasos.exe
+/home/oscar/Escritorio/C#/PrimerosPasos/PrimerosPasos/obj/x86/Debug/PrimerosPasos.pdb

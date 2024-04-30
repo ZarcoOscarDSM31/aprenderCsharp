@@ -1,0 +1,4 @@
+/home/oscar/Escritorio/C#/PrimerosPasos/PrimerosPasos/bin/Release/PrimerosPasos.exe
+/home/oscar/Escritorio/C#/PrimerosPasos/PrimerosPasos/obj/x86/Release/PrimerosPasos.csproj.CoreCompileInputs.cache
+/home/oscar/Escritorio/C#/PrimerosPasos/PrimerosPasos/obj/x86/Release/PrimerosPasos.exe
+/home/oscar/Escritorio/C#/PrimerosPasos/PrimerosPasos/obj/x86/Release/PrimerosPasos.csproj.AssemblyReference.cache
